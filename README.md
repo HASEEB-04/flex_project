@@ -7,10 +7,10 @@ The goal of this project was to make a landing page according to the design give
 My page: https://haseeb-04.github.io/flex_project/
 
 ## Design Provided:
-    ![Design Provided](https://github.com/HASEEB-04/flex_project/blob/main/img/design-provided.png)
+    ![Design-Provided](img/design-provided.jpg)
 
 ## Color & Fonts Provided:
-    ![Color & Fonts Provided](https://github.com/HASEEB-04/flex_project/blob/main/img/colors-fonts.png)
+    ![Color-&-Fonts Provided](img/colors-fonts.jpg)
 
 ## My Page:
-    ![My Page](https://github.com/HASEEB-04/flex_project/blob/main/img/my-page.png)
+    ![My-Page](img/my-page.jpg)
